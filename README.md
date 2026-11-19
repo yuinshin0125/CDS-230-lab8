@@ -1,5 +1,4 @@
 # CDS-230-lab 8- 
-This is a a repository for the CDS 230 exam 2
 
 K-nearest Neighbors (KnN)
 1. Replicate one of the examples from the Canvas
