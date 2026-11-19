@@ -1,2 +1,15 @@
-# CDS-230-exam2-
+# CDS-230-lab 8- 
 This is a a repository for the CDS 230 exam 2
+
+K-nearest Neighbors (KnN)
+1. Replicate one of the examples from the Canvas
+2. Go online (UCI datasets, Kaggle, etc..) and identify two datasets to apply this
+algorithm (Do NOT use the same dataset that you used before, else you lose
+points!)
+3. Explain your result for general audience!
+Naïve Bayes (NB)
+1. Replicate one of the examples from the Canvas
+2. Go online (UCI datasets, Kaggle, etc..) and identify two datasets to apply this
+algorithm (Do NOT use the same dataset that you used before, else you lose
+points!)
+3. Explain your result for general audience
