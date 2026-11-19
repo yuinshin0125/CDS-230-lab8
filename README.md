@@ -7,6 +7,7 @@ K-nearest Neighbors (KnN)
 algorithm (Do NOT use the same dataset that you used before, else you lose
 points!)
 3. Explain your result for general audience!
+
 Naïve Bayes (NB)
 1. Replicate one of the examples from the Canvas
 2. Go online (UCI datasets, Kaggle, etc..) and identify two datasets to apply this
