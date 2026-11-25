@@ -1,4 +1,4 @@
-# CDS-230-lab 8- 
+# CDS-230-lab 8- Yuin Shin, Donghyeon Bak
 
 K-nearest Neighbors (KnN)
 
