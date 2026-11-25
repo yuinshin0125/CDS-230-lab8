@@ -1,7 +1,9 @@
 # CDS-230-lab 8- 
 
 K-nearest Neighbors (KnN)
+
 dataset 1:https://archive.ics.uci.edu/dataset/476/buddymove+data+set
+
 dataset 2: https://archive.ics.uci.edu/dataset/591/gender+by+name
 
 Naïve Bayes (NB)
